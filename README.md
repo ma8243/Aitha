@@ -1,2 +1,2 @@
-# Aitha
+# Mahesh Aitha
 Machine learning projects
